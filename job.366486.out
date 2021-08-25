@@ -1,0 +1,125 @@
+########FOLD: 0##############
+FOLD: 0, EPOCH: 1, train_loss: 0.43177337106733815
+FOLD: 0, EPOCH: 1, valid_loss: 0.3091 ,valid tumor_score: 0.8365,valid best_tumor_th:0.5200,lr:0.00001
+save best score model
+save best  loss model
+FOLD: 0, EPOCH: 2, train_loss: 0.06480326619679419
+FOLD: 0, EPOCH: 2, valid_loss: 0.0115 ,valid tumor_score: 0.9000,valid best_tumor_th:0.2800,lr:0.00013
+save best score model
+save best  loss model
+FOLD: 0, EPOCH: 3, train_loss: 0.007252292749491564
+FOLD: 0, EPOCH: 3, valid_loss: 0.0059 ,valid tumor_score: 0.9139,valid best_tumor_th:0.2600,lr:0.00013
+save best score model
+save best  loss model
+FOLD: 0, EPOCH: 4, train_loss: 0.004425207072863982
+FOLD: 0, EPOCH: 4, valid_loss: 0.0044 ,valid tumor_score: 0.9213,valid best_tumor_th:0.4000,lr:0.00012
+save best score model
+save best  loss model
+FOLD: 0, EPOCH: 5, train_loss: 0.0037265875384203456
+FOLD: 0, EPOCH: 5, valid_loss: 0.0041 ,valid tumor_score: 0.9262,valid best_tumor_th:0.3500,lr:0.00011
+save best score model
+save best  loss model
+FOLD: 0, EPOCH: 6, train_loss: 0.0033914191279325046
+FOLD: 0, EPOCH: 6, valid_loss: 0.0040 ,valid tumor_score: 0.9278,valid best_tumor_th:0.5100,lr:0.00010
+save best score model
+save best  loss model
+FOLD: 0, EPOCH: 7, train_loss: 0.0031496730454136624
+FOLD: 0, EPOCH: 7, valid_loss: 0.0040 ,valid tumor_score: 0.9268,valid best_tumor_th:0.4800,lr:0.00009
+FOLD: 0, EPOCH: 8, train_loss: 0.0029027470550319154
+FOLD: 0, EPOCH: 8, valid_loss: 0.0038 ,valid tumor_score: 0.9301,valid best_tumor_th:0.4500,lr:0.00008
+save best score model
+save best  loss model
+FOLD: 0, EPOCH: 9, train_loss: 0.002724994660744913
+FOLD: 0, EPOCH: 9, valid_loss: 0.0039 ,valid tumor_score: 0.9319,valid best_tumor_th:0.4400,lr:0.00006
+save best score model
+FOLD: 0, EPOCH: 10, train_loss: 0.002574826782054329
+FOLD: 0, EPOCH: 10, valid_loss: 0.0040 ,valid tumor_score: 0.9301,valid best_tumor_th:0.4400,lr:0.00005
+FOLD: 0, EPOCH: 11, train_loss: 0.002442244476867547
+FOLD: 0, EPOCH: 11, valid_loss: 0.0041 ,valid tumor_score: 0.9352,valid best_tumor_th:0.3500,lr:0.00004
+save best score model
+FOLD: 0, EPOCH: 12, train_loss: 0.002325581516695976
+FOLD: 0, EPOCH: 12, valid_loss: 0.0039 ,valid tumor_score: 0.9351,valid best_tumor_th:0.3700,lr:0.00002
+FOLD: 0, EPOCH: 13, train_loss: 0.0022354071637458
+FOLD: 0, EPOCH: 13, valid_loss: 0.0040 ,valid tumor_score: 0.9336,valid best_tumor_th:0.3900,lr:0.00001
+FOLD: 0, EPOCH: 14, train_loss: 0.002164461147194453
+FOLD: 0, EPOCH: 14, valid_loss: 0.0040 ,valid tumor_score: 0.9344,valid best_tumor_th:0.3800,lr:0.00001
+FOLD: 0, EPOCH: 15, train_loss: 0.0021434586424045796
+FOLD: 0, EPOCH: 15, valid_loss: 0.0039 ,valid tumor_score: 0.9347,valid best_tumor_th:0.3800,lr:0.00000
+FOLD: 0, EPOCH: 16, train_loss: 0.0021355384144039103
+FOLD: 0, EPOCH: 16, valid_loss: 0.0039 ,valid tumor_score: 0.9346,valid best_tumor_th:0.3900,lr:0.00000
+FOLD: 0, EPOCH: 17, train_loss: 0.0021341975455870747
+FOLD: 0, EPOCH: 17, valid_loss: 0.0039 ,valid tumor_score: 0.9348,valid best_tumor_th:0.3900,lr:0.00000
+FOLD: 0, EPOCH: 18, train_loss: 0.0021396259996054002
+FOLD: 0, EPOCH: 18, valid_loss: 0.0040 ,valid tumor_score: 0.9343,valid best_tumor_th:0.4100,lr:0.00001
+FOLD: 0, EPOCH: 19, train_loss: 0.0021650379212556615
+FOLD: 0, EPOCH: 19, valid_loss: 0.0039 ,valid tumor_score: 0.9357,valid best_tumor_th:0.4100,lr:0.00001
+save best score model
+FOLD: 0, EPOCH: 20, train_loss: 0.0021739601039590037
+FOLD: 0, EPOCH: 20, valid_loss: 0.0043 ,valid tumor_score: 0.9330,valid best_tumor_th:0.3600,lr:0.00002
+FOLD: 0, EPOCH: 21, train_loss: 0.002235214448078957
+FOLD: 0, EPOCH: 21, valid_loss: 0.0039 ,valid tumor_score: 0.9346,valid best_tumor_th:0.4400,lr:0.00004
+FOLD: 0, EPOCH: 22, train_loss: 0.00231781907044669
+FOLD: 0, EPOCH: 22, valid_loss: 0.0040 ,valid tumor_score: 0.9337,valid best_tumor_th:0.5100,lr:0.00005
+FOLD: 0, EPOCH: 23, train_loss: 0.0023864437234253516
+FOLD: 0, EPOCH: 23, valid_loss: 0.0040 ,valid tumor_score: 0.9332,valid best_tumor_th:0.3700,lr:0.00006
+FOLD: 0, EPOCH: 24, train_loss: 0.0024060407466023753
+FOLD: 0, EPOCH: 24, valid_loss: 0.0041 ,valid tumor_score: 0.9317,valid best_tumor_th:0.5100,lr:0.00008
+FOLD: 0, EPOCH: 25, train_loss: 0.0025390414573413823
+FOLD: 0, EPOCH: 25, valid_loss: 0.0040 ,valid tumor_score: 0.9330,valid best_tumor_th:0.4200,lr:0.00009
+FOLD: 0, EPOCH: 26, train_loss: 0.002547744505535622
+FOLD: 0, EPOCH: 26, valid_loss: 0.0044 ,valid tumor_score: 0.9315,valid best_tumor_th:0.4100,lr:0.00010
+FOLD: 0, EPOCH: 27, train_loss: 0.002566652901387576
+FOLD: 0, EPOCH: 27, valid_loss: 0.0042 ,valid tumor_score: 0.9300,valid best_tumor_th:0.4200,lr:0.00011
+FOLD: 0, EPOCH: 28, train_loss: 0.0025546906231290064
+FOLD: 0, EPOCH: 28, valid_loss: 0.0049 ,valid tumor_score: 0.9247,valid best_tumor_th:0.4200,lr:0.00012
+FOLD: 0, EPOCH: 29, train_loss: 0.002574366810070092
+FOLD: 0, EPOCH: 29, valid_loss: 0.0039 ,valid tumor_score: 0.9308,valid best_tumor_th:0.4300,lr:0.00012
+FOLD: 0, EPOCH: 30, train_loss: 0.002492607082193768
+FOLD: 0, EPOCH: 30, valid_loss: 0.0036 ,valid tumor_score: 0.9373,valid best_tumor_th:0.4200,lr:0.00013
+save best score model
+save best  loss model
+########FOLD: 1##############
+FOLD: 1, EPOCH: 1, train_loss: 0.4912144978246841
+FOLD: 1, EPOCH: 1, valid_loss: 0.3555 ,valid tumor_score: 0.8204,valid best_tumor_th:0.5700,lr:0.00001
+save best score model
+save best  loss model
+FOLD: 1, EPOCH: 2, train_loss: 0.0712093025589551
+FOLD: 1, EPOCH: 2, valid_loss: 0.0135 ,valid tumor_score: 0.8831,valid best_tumor_th:0.4400,lr:0.00013
+save best score model
+save best  loss model
+FOLD: 1, EPOCH: 3, train_loss: 0.006816349159526318
+FOLD: 1, EPOCH: 3, valid_loss: 0.0083 ,valid tumor_score: 0.8851,valid best_tumor_th:0.5500,lr:0.00013
+save best score model
+save best  loss model
+FOLD: 1, EPOCH: 4, train_loss: 0.004140781484924443
+FOLD: 1, EPOCH: 4, valid_loss: 0.0086 ,valid tumor_score: 0.8934,valid best_tumor_th:0.5300,lr:0.00012
+save best score model
+FOLD: 1, EPOCH: 5, train_loss: 0.0034640855168530903
+FOLD: 1, EPOCH: 5, valid_loss: 0.0094 ,valid tumor_score: 0.8939,valid best_tumor_th:0.6100,lr:0.00011
+save best score model
+FOLD: 1, EPOCH: 6, train_loss: 0.003124360633626715
+FOLD: 1, EPOCH: 6, valid_loss: 0.0079 ,valid tumor_score: 0.8990,valid best_tumor_th:0.6200,lr:0.00010
+save best score model
+save best  loss model
+FOLD: 1, EPOCH: 7, train_loss: 0.0028498416154075553
+FOLD: 1, EPOCH: 7, valid_loss: 0.0076 ,valid tumor_score: 0.9022,valid best_tumor_th:0.6200,lr:0.00009
+save best score model
+save best  loss model
+FOLD: 1, EPOCH: 8, train_loss: 0.0026534110054806112
+FOLD: 1, EPOCH: 8, valid_loss: 0.0080 ,valid tumor_score: 0.9034,valid best_tumor_th:0.6500,lr:0.00008
+save best score model
+FOLD: 1, EPOCH: 9, train_loss: 0.0024894923424530935
+FOLD: 1, EPOCH: 9, valid_loss: 0.0074 ,valid tumor_score: 0.9046,valid best_tumor_th:0.5900,lr:0.00006
+save best score model
+save best  loss model
+FOLD: 1, EPOCH: 10, train_loss: 0.0023185079348631227
+FOLD: 1, EPOCH: 10, valid_loss: 0.0077 ,valid tumor_score: 0.9052,valid best_tumor_th:0.5000,lr:0.00005
+save best score model
+FOLD: 1, EPOCH: 11, train_loss: 0.0021882459035611275
+FOLD: 1, EPOCH: 11, valid_loss: 0.0081 ,valid tumor_score: 0.9042,valid best_tumor_th:0.5600,lr:0.00004
+FOLD: 1, EPOCH: 12, train_loss: 0.0020803134706316503
+FOLD: 1, EPOCH: 12, valid_loss: 0.0079 ,valid tumor_score: 0.9059,valid best_tumor_th:0.5500,lr:0.00002
+save best score model
+FOLD: 1, EPOCH: 13, train_loss: 0.002025410809927905
+FOLD: 1, EPOCH: 13, valid_loss: 0.0083 ,valid tumor_score: 0.9076,valid best_tumor_th:0.6200,lr:0.00001
+save best score model
